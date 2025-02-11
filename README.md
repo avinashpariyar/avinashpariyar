@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Flutter, Python**
 
-- 💬 Ask me about **PHP, Javascript,HTML,CSS,C_Programming**
+- 💬 Ask me about **HTML,CSS,Javascript,PHP,C_Programming, OOP-Java**
 
 - 📫 How to reach me **avinashpariyar86@gmail.com**
 
