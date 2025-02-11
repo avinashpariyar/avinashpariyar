@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinashpariyar&label=Profile%20views&color=0e75b6&style=flat" alt="avinashpariyar" /> </p>
 
-- 🌱 I’m currently Studying **BCA(Bachelor's in Computer Application.)**
+- 🌱 I’m currently Studying **WordPress, Data Structure and Algorithm.**
 
 - 💬 Ask me about **HTML,CSS,Javascript,PHP,C_Programming, OOP-Java.**
 
